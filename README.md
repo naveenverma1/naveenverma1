@@ -2,40 +2,28 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sudiptoghosh99/)
 [![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
 [![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
-
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
-
-## About Me:z
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
----
-
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+[![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://leetcode.com/naveenverma/)
 
 
 
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
 
+```javascript
+const Naveen = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    technologies: {
+       mobileApp: ["Android App"],
+       backEnd: {
+            js: ["node", "express", "hapi"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["microservices", "event-driven"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-
-<!--
-**ayushkumar-25/ayushkumar-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
