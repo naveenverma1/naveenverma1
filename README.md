@@ -1,42 +1,30 @@
-## नमस्ते 🙏
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+<a href="https://twitter.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AjayKhalsa">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/AjayKhalsa">
+  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.kaggle.com/ajaykhalsa">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> 
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) --> 
+### I am Ajay Singh Khalsa
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-
-
-<!-- ⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25) -->
-
-
-
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
-
-
-
-<!--
-**ayushkumar-25/ayushkumar-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
