@@ -1,8 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Naveen Verma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer intern at <a href="https://www.code-brew.com/">Codebrew Labs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-## नमस्ते 🙏
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 [![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
@@ -10,7 +6,7 @@
 
 ![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
 
-## About Me:
+## About Me:z
 #### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
 <!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
