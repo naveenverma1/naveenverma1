@@ -11,7 +11,7 @@
 const Naveen = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "Eddie Vedder", "Chris Cornell"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
     technologies: {
        mobileApp: ["Android App"],
        backEnd: {
