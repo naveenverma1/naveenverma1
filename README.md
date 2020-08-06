@@ -9,8 +9,6 @@
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
 </p>
 
-
-
 ```javascript
 const Naveen = {
     pronouns: "He" | "Him",
