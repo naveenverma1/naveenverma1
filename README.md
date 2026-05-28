@@ -1,8 +1,16 @@
-## नमस्ते 🙏
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-verma-1ab250188/)](https://www.linkedin.com/in/naveen-verma-1ab250188/)
-[![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
-[![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
-[![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://leetcode.com/naveenverma/)
+## नमस्ते 🙏, I'm Naveen Verma
+
+#### Software Development Engineer III @ KLA Corporation &nbsp;·&nbsp; ex-PhonePe &nbsp;·&nbsp; Bangalore, India
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/01naveenv/)
+[![Telegram](https://img.shields.io/badge/Telegram-naveenv01-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/naveenv01)
+[![Gmail](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:01naveenv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-naveenverma1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenverma1)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-naveenverma-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/naveenverma/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-01naveenv-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/01naveenv)
+[![AtCoder](https://img.shields.io/badge/AtCoder-naveenv-222222?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/naveenv)
+[![CodeChef](https://img.shields.io/badge/CodeChef-newhere44-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/newhere44)
 
 <p align="center"> 
   Visitor count<br>
@@ -12,17 +20,32 @@
 ```javascript
 const Naveen = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    currentRole: "SDE-3 @ KLA Corporation",
+    previously:  ["ex-PhonePe (SDE-2, Growth-Core & AppBazaar)", "Code Brew Labs"],
+    location:    "Bangalore, India",
+    experience:  "6+ years",
+    code: ["Java", "Node.js", "JavaScript", "SQL"],
+    askMeAbout: [
+        "distributed systems", "system design",
+        "recommendation systems", "microservices",
+        "event-driven architecture", "fintech"
+    ],
     technologies: {
-       mobileApp: ["Android App"],
-       backEnd: {
-            js: ["node", "express", "hapi"],
+        backEnd: {
+            java: ["Spring Boot", "Spring", "Dropwizard", "JUnit"],
+            js:   ["Node.js", "Express", "Hapi"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        databases:  ["MongoDB", "MySQL", "PostgreSQL", "Redis",
+                     "Aerospike", "HBase", "Elasticsearch", "SQLite"],
+        messaging:  ["Kafka", "RabbitMQ", "Socket.IO"],
+        cloud:      ["AWS (EC2, S3, Lambda, CloudWatch, RDS, Auto-Scaling)"],
+        observability: ["Grafana"],
+        frontend:   ["Svelte"],
+        mobile:     ["Android"],
+        concepts:   ["LLD", "HLD", "Design Patterns",
+                     "BloomFilters", "DSA", "Disaster Recovery"]
     },
-    architecture: ["microservices", "event-driven"],
+    architecture: ["microservices", "event-driven", "push-based"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
