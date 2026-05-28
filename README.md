@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/naveenverma1">
-    <img src="https://komarev.com/ghpvc/?username=naveenverma1&label=Profile+views&color=2f9a35&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=naveenverma1&label=Profile+views&color=2f9a35&style=flat-square&base=3000" alt="Profile views" />
   </a>
 </p>
 
