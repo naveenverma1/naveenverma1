@@ -12,9 +12,10 @@
 [![AtCoder](https://img.shields.io/badge/AtCoder-naveenv-222222?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/naveenv)
 [![CodeChef](https://img.shields.io/badge/CodeChef-newhere44-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/newhere44)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+<p align="center">
+  <a href="https://github.com/naveenverma1">
+    <img src="https://komarev.com/ghpvc/?username=naveenverma1&label=Profile+views&color=2f9a35&style=flat-square" alt="Profile views" />
+  </a>
 </p>
 
 ```javascript
